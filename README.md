@@ -17,6 +17,7 @@ Check out this repo's [source code](https://github.com/jnthas/cw-cf-0x00/blob/ma
 - Adafuit GFX fonts https://learn.adafruit.com/adafruit-gfx-graphics-library/using-fonts
 - truetype2gfx - Converting fonts from TrueType to Adafruit GFX https://rop.nl/truetype2gfx/
 - Amazing tool to customize every character of your font https://tchapi.github.io/Adafruit-GFX-Font-Customiser/
+- Adafruit tool to covert fonts https://learn.adafruit.com/adafruit-gfx-graphics-library/using-fonts#adding-new-fonts-2002831
 
 ### Colors RGB565 
 - Those LED matrices and its libraries uses 2 bytes to define a RGB color, it's called RGB565 and it's slighty different than the "original" RGB. Here is a color picker for that format http://www.barth-dev.de/online/rgb565-color-picker/
