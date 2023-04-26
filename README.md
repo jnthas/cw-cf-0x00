@@ -16,11 +16,6 @@ This video explains about the folder structure of Clockwise. It's a good startin
 
 [![Clockwise Video 1](https://img.youtube.com/vi/u9lVJ6KFgbw/hqdefault.jpg)](https://youtu.be/u9lVJ6KFgbw)
 
-<div style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u9lVJ6KFgbw" title="Clockwise video1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-
 ## Useful links when making a clockface
 
 ### Fonts
