@@ -10,6 +10,14 @@ To create a new Clockface, you just need a:
 
 Check out this repo's [source code](https://github.com/jnthas/cw-cf-0x00/blob/main/Clockface.cpp) to get more information.
 
+## Folder Structure
+
+This video explains about the folder structure of Clockwise. It's a good starting point for those want to develop a new clockface.
+
+<div style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9lVJ6KFgbw" title="Clockwise video1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 
 ## Useful links when making a clockface
 
